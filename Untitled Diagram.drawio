@@ -1,34 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2020-11-28T23:56:17.120Z" agent="5.0 (X11)" etag="cSxuRTKKdNei5T4UzJuX" version="13.10.4" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-29T19:27:00.395Z" agent="5.0 (X11)" etag="FrFQAZxfZQXpdZuUZHPt" version="13.10.4" type="github">
   <diagram id="pZjO1q-zsHxC9P53aRX8" name="Page-1">
-    <mxGraphModel dx="2500" dy="2115" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3197" dy="2509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <object placeholders="1" c4Name="Discord" c4Type="Software System" c4Description="API de Discord" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="AsDXCz73vh-PDOLJINpi-14">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=top;" parent="1" vertex="1">
-            <mxGeometry x="20" y="10" width="120" height="790" as="geometry" />
+            <mxGeometry x="60" y="40" width="120" height="1000" as="geometry" />
           </mxCell>
         </object>
         <mxCell id="AsDXCz73vh-PDOLJINpi-22" value="ready" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
-          <mxGeometry x="40" y="170" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="215" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-25" value="message" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
-          <mxGeometry x="40" y="260" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="320" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-26" value="guildMember&lt;br&gt;Add" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
-          <mxGeometry x="40" y="350" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="455" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-27" value="&lt;div&gt;guildMember&lt;br&gt;Update&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
-          <mxGeometry x="40" y="440" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="559" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-28" value="guildMember&lt;br&gt;&lt;div&gt;Remove&lt;/div&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
-          <mxGeometry x="40" y="530" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="669" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-29" value="message&lt;br&gt;Reaction&lt;br&gt;Add" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
-          <mxGeometry x="40" y="620" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="815" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-30" value="message&lt;br&gt;Reaction&lt;br&gt;Remove" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
-          <mxGeometry x="40" y="710" width="80" height="80" as="geometry" />
+          <mxGeometry x="80" y="935" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-14" target="AsDXCz73vh-PDOLJINpi-14" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -37,7 +37,7 @@
           <mxGeometry y="-40" width="160" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-38" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-120" y="10" width="40" height="80" as="geometry" />
+          <mxGeometry x="-120" y="20" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-36" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#949494;fillColor=#D1D1D1;align=center;" parent="AsDXCz73vh-PDOLJINpi-38" vertex="1">
           <mxGeometry width="40" height="40" as="geometry" />
@@ -46,7 +46,7 @@
           <mxGeometry y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-39" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-120" y="190" width="40" height="80" as="geometry" />
+          <mxGeometry x="-120" y="200" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-40" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#949494;fillColor=#D1D1D1;align=center;" parent="AsDXCz73vh-PDOLJINpi-39" vertex="1">
           <mxGeometry width="40" height="40" as="geometry" />
@@ -55,7 +55,7 @@
           <mxGeometry y="40" width="40" height="40" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-42" value="" style="group" parent="1" vertex="1" connectable="0">
-          <mxGeometry x="-120" y="100" width="40" height="80" as="geometry" />
+          <mxGeometry x="-120" y="110" width="40" height="80" as="geometry" />
         </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-43" value="" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;strokeColor=#949494;fillColor=#D1D1D1;align=center;" parent="AsDXCz73vh-PDOLJINpi-42" vertex="1">
           <mxGeometry width="40" height="40" as="geometry" />
@@ -63,47 +63,21 @@
         <mxCell id="AsDXCz73vh-PDOLJINpi-44" value="" style="shape=or;whiteSpace=wrap;html=1;rounded=1;strokeColor=#949494;fillColor=#D1D1D1;align=center;rotation=-90;" parent="AsDXCz73vh-PDOLJINpi-42" vertex="1">
           <mxGeometry y="40" width="40" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="AsDXCz73vh-PDOLJINpi-46" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-41" target="eNZzyNxrex4ou6BvPBKj-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-10" y="242" />
-              <mxPoint x="-10" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AsDXCz73vh-PDOLJINpi-48" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-44" target="eNZzyNxrex4ou6BvPBKj-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="40" y="120" as="targetPoint" />
-            <Array as="points">
-              <mxPoint x="-10" y="152" />
-              <mxPoint x="-10" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="AsDXCz73vh-PDOLJINpi-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-37" target="eNZzyNxrex4ou6BvPBKj-11" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="-10" y="70" />
-              <mxPoint x="-10" y="120" />
-            </Array>
-          </mxGeometry>
-        </mxCell>
         <mxCell id="AsDXCz73vh-PDOLJINpi-51" value="Usuarios" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="-160" y="-40" width="160" height="40" as="geometry" />
         </mxCell>
-        <object placeholders="1" c4Name="xfazt-bot" c4Type="Software System" c4Description="Bot para discord&#xa;[Nodejs, Typescript]" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="AsDXCz73vh-PDOLJINpi-60">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#1168BD;fontColor=#ffffff;align=center;arcSize=10;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=top;" parent="1" vertex="1">
-            <mxGeometry x="430" y="-60" width="1330" height="900" as="geometry" />
+        <object placeholders="1" c4Name="xfazt-bot" c4Type="Software System" c4Description="" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="AsDXCz73vh-PDOLJINpi-60">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;align=center;arcSize=10;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=top;fillColor=none;dashed=1;strokeWidth=2;fontColor=#030303;" parent="1" vertex="1">
+            <mxGeometry x="430" y="-60" width="1330" height="1210" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Name="API REST" c4Type="Software System" c4Description="Persiste información crucial para el bot" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="AsDXCz73vh-PDOLJINpi-63">
           <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#999999;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#8A8A8A;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" parent="1" vertex="1">
-            <mxGeometry x="1520" y="40" width="200" height="200" as="geometry" />
+            <mxGeometry x="1530" y="60" width="200" height="200" as="geometry" />
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="HTTP" c4Description="Peticiones" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="AsDXCz73vh-PDOLJINpi-65">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};" parent="1" edge="1" target="AsDXCz73vh-PDOLJINpi-63">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1.007;exitY=0.096;exitDx=0;exitDy=0;exitPerimeter=0;" parent="1" target="AsDXCz73vh-PDOLJINpi-63" edge="1" source="eNZzyNxrex4ou6BvPBKj-14">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="1400" y="140" as="sourcePoint" />
               <mxPoint x="1520" y="139" as="targetPoint" />
@@ -111,7 +85,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="El cliente está listo." label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-2">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryX=0;entryY=0.239;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-22" target="eNZzyNxrex4ou6BvPBKj-14">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-22" target="jFwvqw72BL9LvZrj0riD-2" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="130" y="121" as="sourcePoint" />
               <mxPoint x="280" y="120" as="targetPoint" />
@@ -119,7 +93,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="Alguien envió un mensaje en algún canal&#xa;de algún servidor" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-4">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.365;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-25" target="eNZzyNxrex4ou6BvPBKj-14">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.43;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-25" target="jFwvqw72BL9LvZrj0riD-3" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="120" y="209.41" as="sourcePoint" />
               <mxPoint x="420" y="209" as="targetPoint" />
@@ -127,7 +101,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="Un usuario ingresó a un servidor" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-5">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.001;entryY=0.493;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-26" target="eNZzyNxrex4ou6BvPBKj-14">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-26" target="jFwvqw72BL9LvZrj0riD-4" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="120" y="299.40999999999985" as="sourcePoint" />
               <mxPoint x="420" y="299" as="targetPoint" />
@@ -135,7 +109,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="Se modificó la info de un usuario" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-6">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.62;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-27" target="eNZzyNxrex4ou6BvPBKj-14">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.029;entryY=0.397;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-27" target="jFwvqw72BL9LvZrj0riD-5" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="130" y="389.40999999999985" as="sourcePoint" />
               <mxPoint x="290" y="389.40999999999985" as="targetPoint" />
@@ -143,7 +117,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="Un usuario se fue de un servidor" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-7">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-28" target="eNZzyNxrex4ou6BvPBKj-14">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-28" target="jFwvqw72BL9LvZrj0riD-6" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="130" y="479.40999999999985" as="sourcePoint" />
               <mxPoint x="430" y="570" as="targetPoint" />
@@ -151,7 +125,7 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="Un mensaje obtuvo una reacción" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-8">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=-0.001;entryY=0.872;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-29" target="eNZzyNxrex4ou6BvPBKj-14">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-29" target="jFwvqw72BL9LvZrj0riD-7" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="120" y="569.4099999999999" as="sourcePoint" />
               <mxPoint x="430" y="660" as="targetPoint" />
@@ -159,18 +133,18 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="Un mensaje perdió una reacción" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-9">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.891;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-30" target="AsDXCz73vh-PDOLJINpi-60">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="AsDXCz73vh-PDOLJINpi-30" target="jFwvqw72BL9LvZrj0riD-8" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="120" y="659.4099999999999" as="sourcePoint" />
-              <mxPoint x="280" y="659.4099999999999" as="targetPoint" />
+              <mxPoint x="460" y="746" as="targetPoint" />
             </mxGeometry>
           </mxCell>
         </object>
-        <mxCell id="eNZzyNxrex4ou6BvPBKj-11" value="&lt;div&gt;*&lt;br&gt;&lt;/div&gt;(cualquier&lt;br&gt;evento)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" vertex="1" parent="1">
-          <mxGeometry x="40" y="80" width="80" height="80" as="geometry" />
+        <mxCell id="eNZzyNxrex4ou6BvPBKj-11" value="&lt;div&gt;*&lt;br&gt;&lt;/div&gt;(cualquier&lt;br&gt;evento)" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;rounded=1;align=center;fillColor=#D1D1D1;strokeColor=#949494;" parent="1" vertex="1">
+          <mxGeometry x="80" y="120" width="80" height="80" as="geometry" />
         </mxCell>
         <object placeholders="1" c4Type="Relationship" c4Technology="socket" c4Description="Cualquier evento" label="&lt;div style=&quot;text-align: left&quot;&gt;&lt;div style=&quot;text-align: center&quot;&gt;&lt;b&gt;%c4Description%&lt;/b&gt;&lt;/div&gt;&lt;div style=&quot;text-align: center&quot;&gt;[%c4Technology%]&lt;/div&gt;&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-12">
-          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0.001;exitY=0.113;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="eNZzyNxrex4ou6BvPBKj-14" target="eNZzyNxrex4ou6BvPBKj-11">
+          <mxCell style="edgeStyle=none;rounded=0;html=1;entryX=1;entryY=0.5;jettySize=auto;orthogonalLoop=1;strokeColor=#707070;strokeWidth=2;fontColor=#707070;jumpStyle=none;dashed=1;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};exitX=0;exitY=0.091;exitDx=0;exitDy=0;exitPerimeter=0;entryDx=0;entryDy=0;" parent="1" source="eNZzyNxrex4ou6BvPBKj-14" target="eNZzyNxrex4ou6BvPBKj-11" edge="1">
             <mxGeometry width="160" relative="1" as="geometry">
               <mxPoint x="400" y="10" as="sourcePoint" />
               <mxPoint x="560" y="10" as="targetPoint" />
@@ -178,10 +152,54 @@
           </mxCell>
         </object>
         <object placeholders="1" c4Name="DiscordClient" c4Type="Component" c4Technology="discord.js" c4Description="Reacciona a los eventos de DiscordAPI e interactúa con su API." label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="eNZzyNxrex4ou6BvPBKj-14">
-          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;" vertex="1" parent="1">
-            <mxGeometry x="480" y="40" width="470" height="710" as="geometry" />
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#438DD5;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#3C7FC0;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];verticalAlign=top;labelPosition=center;verticalLabelPosition=middle;" parent="1" vertex="1">
+            <mxGeometry x="480" y="60" width="910" height="1060" as="geometry" />
           </mxCell>
         </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jFwvqw72BL9LvZrj0riD-2">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="480" y="200" width="340" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jFwvqw72BL9LvZrj0riD-3">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="480" y="320" width="340" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jFwvqw72BL9LvZrj0riD-4">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="480" y="440" width="340" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jFwvqw72BL9LvZrj0riD-5">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="480" y="559" width="340" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jFwvqw72BL9LvZrj0riD-6">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="480" y="680" width="340" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jFwvqw72BL9LvZrj0riD-7">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="480" y="800" width="340" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <object placeholders="1" c4Name="name" c4Type="Container" c4Technology="technology" c4Description="Description" label="&lt;b&gt;%c4Name%&lt;/b&gt;&lt;div&gt;[%c4Type%: %c4Technology%]&lt;/div&gt;&lt;br&gt;&lt;div&gt;%c4Description%&lt;/div&gt;" id="jFwvqw72BL9LvZrj0riD-8">
+          <mxCell style="rounded=1;whiteSpace=wrap;html=1;labelBackgroundColor=none;fillColor=#85BBF0;fontColor=#ffffff;align=center;arcSize=10;strokeColor=#78A8D8;metaEdit=1;metaData={&quot;c4Type&quot;:{&quot;editable&quot;:false}};points=[[0.25,0,0],[0.5,0,0],[0.75,0,0],[1,0.25,0],[1,0.5,0],[1,0.75,0],[0.75,1,0],[0.5,1,0],[0.25,1,0],[0,0.75,0],[0,0.5,0],[0,0.25,0]];dashed=1;" vertex="1" parent="1">
+            <mxGeometry x="480" y="920" width="340" height="110" as="geometry" />
+          </mxCell>
+        </object>
+        <mxCell id="jFwvqw72BL9LvZrj0riD-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#030303;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-41" target="eNZzyNxrex4ou6BvPBKj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFwvqw72BL9LvZrj0riD-21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#030303;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-44" target="eNZzyNxrex4ou6BvPBKj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="jFwvqw72BL9LvZrj0riD-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.7;exitY=0.9;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;fontColor=#030303;" edge="1" parent="1" source="AsDXCz73vh-PDOLJINpi-37" target="eNZzyNxrex4ou6BvPBKj-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
